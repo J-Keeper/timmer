@@ -1,0 +1,2 @@
+WARN main com.yxy.sch.trigger.SimpleTrigger - 已取消一个开始于过去时间的任务:SimpleTest
+INFO pool-1-thread-1 com.yxy.sch.ScheduledManager - 提交任务:SimpleTest

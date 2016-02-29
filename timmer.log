@@ -1,0 +1,952 @@
+2015-09-10 16:31:00,795 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:00,833 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:00,864 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:00,895 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:00,925 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:00,955 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:00,985 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,015 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,045 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,075 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,105 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,135 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,165 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,204 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,234 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,264 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,294 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,324 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,354 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,384 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,414 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,444 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,474 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,504 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,534 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,564 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,594 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,624 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,654 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,684 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,714 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,744 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,774 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,804 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,834 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,864 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,894 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,924 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,954 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:01,984 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,014 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,044 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,077 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,107 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,137 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,167 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,197 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,227 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,257 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,287 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,317 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,347 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,377 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,407 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,437 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,467 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,497 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,527 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,557 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,587 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,617 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,648 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,678 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,708 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,738 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,768 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,798 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,828 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,858 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,888 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,918 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,948 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:02,978 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,008 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,038 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,068 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,098 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,130 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,160 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,190 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,220 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,250 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,280 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,310 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,340 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,370 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,400 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,430 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,460 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,490 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,520 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,550 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,580 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,610 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,640 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,670 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,700 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,730 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,760 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,790 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,820 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,850 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,880 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,920 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:03,965 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:04,005 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:04,036 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:04,066 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:04,096 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:04,126 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:04,156 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:04,186 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:04,216 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:04,246 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:04,276 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:04,306 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:04,336 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:04,366 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:04,396 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:31:04,426 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:34:00,496 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:35:00,187 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:00,087 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:00,207 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:00,315 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:00,416 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:00,517 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:00,618 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:00,718 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:00,819 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:00,920 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:01,021 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:01,122 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:01,223 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:01,324 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:01,425 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:01,526 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:01,627 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:01,728 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:01,829 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:01,930 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:02,031 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:02,132 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:02,232 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:02,333 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:02,433 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:02,534 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:02,635 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:02,736 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:02,837 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:02,938 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:03,039 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:03,140 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:03,241 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:03,341 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:03,441 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:03,542 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:03,642 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:03,742 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:03,844 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:03,944 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:04,045 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:04,146 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:04,246 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:04,352 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:04,453 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:04,554 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:04,655 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:04,755 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:04,855 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:04,955 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:05,055 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:05,157 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:05,257 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:05,357 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:05,458 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:05,558 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:05,658 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:05,759 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:05,859 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:05,959 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:06,060 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:06,160 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:06,260 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:06,366 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:06,467 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:06,567 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:06,667 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:06,767 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:06,868 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:06,969 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:07,069 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:07,170 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:07,271 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:07,371 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:07,472 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:07,572 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:07,672 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:07,772 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:07,873 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:07,974 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:08,074 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:08,174 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:08,276 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:08,376 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:08,477 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:08,577 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:08,677 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:08,777 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:08,878 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:08,978 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:09,078 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:09,179 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:09,279 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:09,379 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:09,480 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:09,580 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:09,680 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:09,781 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:09,882 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:09,983 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:10,083 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:10,183 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:10,293 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:10,393 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:10,493 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:10,593 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:10,693 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:10,797 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:10,897 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:10,997 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:11,098 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:11,198 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:11,298 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:11,399 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:11,499 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:11,599 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:11,700 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:11,800 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:11,900 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:12,001 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:12,101 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:12,202 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:12,302 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:12,402 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:12,502 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:12,602 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:12,702 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:12,802 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:12,902 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:13,002 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:13,102 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:13,202 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:13,302 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:13,402 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:13,503 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:13,603 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:13,704 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:13,804 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:13,905 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:14,005 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:36:14,105 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:37:29,792 [WARN] [main] SimpleTrigger.<init> - 已取消一个开始于过去时间的任务:SimpleTest
+2015-09-10 16:37:29,795 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:38:00,097 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:53:00,185 [INFO] [pool-1-thread-1] ScheduledManager.run - 提交任务:SimpleTest
+2015-09-10 16:53:00,208 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 16:55:00,311 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:12:00,077 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:12:00,100 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:26:00,934 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:31:00,032 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:31:00,045 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:31:21,010 [WARN] [main] SimpleTrigger.<init> - 已取消一个开始于过去时间的任务:SimpleTest
+2015-09-10 17:31:21,013 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:00,156 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:00,168 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:00,265 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:00,268 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:00,367 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:00,369 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:00,468 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:00,469 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:00,569 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:00,570 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:00,670 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:00,671 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:00,771 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:00,784 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 11 ms
+2015-09-10 17:35:00,872 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:00,873 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:00,973 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:00,974 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:01,074 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:01,075 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:01,175 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:01,176 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:01,276 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:01,277 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:01,377 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:01,378 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:01,478 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:01,479 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:01,579 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:01,580 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:01,680 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:01,681 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:01,780 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:01,781 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:01,880 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:01,880 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:01,980 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:01,981 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:02,081 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:02,082 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:02,182 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:02,183 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:02,282 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:02,283 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:02,382 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:02,383 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:02,482 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:02,483 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:02,582 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:02,583 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:02,682 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:02,690 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:02,790 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:02,791 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:02,890 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:02,891 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:02,990 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:02,997 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:03,097 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:03,098 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:03,197 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:03,198 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:03,297 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:03,298 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:03,397 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:03,398 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:03,497 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:03,500 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:03,600 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:03,601 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:03,700 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:03,701 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:03,800 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:03,801 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:03,900 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:03,901 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:04,001 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:04,003 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:04,102 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:04,103 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:04,203 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:04,204 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:04,304 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:04,305 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:04,404 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:04,405 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:04,504 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:04,505 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:04,604 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:04,605 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:04,704 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:04,705 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:04,805 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:04,806 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:04,906 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:04,907 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:05,006 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:05,033 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:05,106 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:05,106 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:05,206 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:05,207 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:05,306 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:05,307 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:05,406 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:05,409 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:05,509 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:05,510 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:05,610 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:05,611 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:05,710 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:05,711 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:05,810 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:05,811 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:05,910 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:05,911 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:06,010 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:06,011 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:06,110 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:06,111 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:06,210 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:06,212 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:06,311 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:06,312 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:06,411 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:06,412 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:06,511 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:06,512 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:06,611 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:06,612 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:06,711 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:06,712 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:06,811 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:06,812 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:06,912 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:06,916 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:07,016 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:07,017 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:07,116 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:07,117 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:07,216 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:07,217 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:07,316 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:07,317 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:07,416 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:07,417 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:07,516 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:07,517 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:07,616 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:07,617 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:07,716 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:07,717 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:07,816 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:07,817 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:07,916 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:07,917 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:08,017 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:08,018 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:08,117 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:08,118 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:08,217 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:08,218 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:08,317 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:08,318 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:08,417 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:08,418 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:08,517 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:08,518 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:08,617 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:08,618 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:08,717 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:08,718 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:08,817 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:08,818 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:08,918 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:08,919 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:09,018 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:09,019 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:09,118 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:09,119 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:09,218 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:09,219 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:09,318 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:09,319 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:09,418 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:09,422 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:09,518 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:09,519 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:09,618 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:09,619 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:09,718 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:09,719 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:09,818 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:09,819 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:09,918 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:09,919 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:10,018 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:10,019 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:10,118 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:10,119 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:10,218 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:10,218 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:10,318 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:10,319 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:10,418 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:10,419 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:10,518 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:10,518 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:10,618 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:10,619 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:10,718 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:10,719 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:10,818 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:10,819 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:10,918 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:10,919 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:11,018 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:11,019 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:11,118 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:11,119 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:11,218 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:11,219 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:11,318 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:11,319 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:11,418 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:11,420 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:11,519 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:11,520 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:11,619 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:11,619 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:11,719 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:11,720 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:11,819 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:11,820 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:11,919 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:11,920 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:12,019 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:12,020 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:12,119 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:12,120 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:12,219 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:12,220 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:12,319 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:12,329 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:12,429 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:12,430 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:12,529 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:12,530 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:12,630 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:12,631 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:12,730 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:12,731 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:12,830 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:12,831 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:12,930 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:12,931 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:13,030 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:13,031 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:13,130 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:13,131 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:13,230 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:13,231 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:13,330 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:13,331 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:13,430 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:13,431 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:13,530 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:13,531 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:13,630 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:13,631 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:13,730 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:13,731 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:13,830 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:13,831 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:13,930 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:13,931 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:14,030 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:14,031 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:14,131 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:14,132 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:14,231 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:14,232 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:14,331 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:14,332 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:14,431 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:14,432 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:14,531 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:14,532 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:14,631 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:14,631 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:14,731 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:14,732 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:14,831 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:14,832 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:14,932 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:14,935 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:15,032 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:15,033 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:15,132 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:15,133 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:15,232 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:15,233 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:15,333 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:15,334 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:15,433 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:15,434 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:15,533 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:15,534 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:15,633 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:15,634 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:15,733 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:15,734 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:15,833 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:15,834 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:15,933 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:15,934 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:16,033 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:16,034 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:16,133 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:16,139 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:16,234 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:16,235 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:16,334 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:16,335 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:16,434 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:16,435 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:16,534 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:16,535 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:16,634 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:16,635 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:16,734 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:16,734 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:16,834 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:16,835 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:16,934 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:16,935 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:17,034 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:17,035 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:17,134 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:17,135 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:17,234 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:17,235 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:17,334 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:17,335 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:17,434 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:17,435 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:17,534 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:17,535 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:17,634 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:17,635 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:17,734 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:17,735 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:17,834 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:17,835 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:17,934 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:17,935 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:18,034 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:18,035 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:18,134 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:18,135 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:18,235 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:18,236 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:18,335 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:18,336 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:18,435 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:18,436 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:18,535 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:18,536 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:18,635 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:18,636 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:18,735 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:18,736 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:18,835 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:18,836 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:18,936 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:18,943 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:19,043 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:19,044 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:19,143 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:19,144 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:19,243 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:19,244 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:19,344 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:19,345 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:19,444 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:19,445 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:19,544 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:19,545 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:19,644 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:19,645 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:19,744 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:19,745 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:19,844 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:19,845 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:19,944 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:19,945 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:20,044 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:20,045 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:20,144 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:20,145 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:20,244 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:20,245 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:20,344 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:20,345 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:20,444 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:20,444 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:20,544 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:20,545 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:20,644 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:20,645 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:20,744 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:20,745 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:20,844 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:20,845 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:20,944 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:20,945 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:35:21,044 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:21,045 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:21,144 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:35:21,145 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:35:30,937 [WARN] [main] SimpleTrigger.<init> - 已取消一个开始于过去时间的任务:SimpleTest
+2015-09-10 17:35:30,939 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,155 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,177 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:41:00,179 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,180 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,189 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,190 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,200 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,201 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,211 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,211 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,221 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,221 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,231 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,231 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,241 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,243 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,253 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,253 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,263 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,264 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,274 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,274 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,284 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,289 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,299 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,299 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,310 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,311 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,321 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,322 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,332 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,332 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,342 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,342 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,352 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,352 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,362 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,364 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,374 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,377 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,387 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,387 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,397 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,397 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,407 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,407 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,417 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,417 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,427 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,427 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,437 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,437 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,447 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,447 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,457 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,457 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,467 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,468 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:41:00,477 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,477 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,487 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,487 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,497 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,497 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,509 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,510 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,520 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,520 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,530 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,530 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,540 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,540 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,550 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,550 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,560 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,560 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,570 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,570 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,580 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,580 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,590 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,590 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,600 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,601 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,611 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,611 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,621 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,621 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,631 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,631 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,641 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,641 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,651 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,651 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,661 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,661 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,671 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,671 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,681 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,681 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,691 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,691 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,701 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,701 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,711 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,711 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,721 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,721 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,731 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,731 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,741 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,742 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:41:00,751 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,751 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,761 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,761 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,771 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,771 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,781 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,781 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,792 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,792 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,804 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,804 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,814 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,814 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,824 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,824 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,834 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,834 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,844 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,846 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,856 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,856 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,867 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,873 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,883 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,883 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,893 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,893 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,903 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,904 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,914 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,914 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,924 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,924 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,934 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,934 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,944 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,944 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,954 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,954 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,964 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,964 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,974 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,974 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,985 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,986 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:00,996 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:00,996 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,006 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,006 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,016 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,016 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,026 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,026 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,036 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,036 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,046 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,046 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,056 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,056 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,066 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,066 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,076 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,076 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,086 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,086 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,096 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,096 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,107 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,107 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,117 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,117 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,127 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,129 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:41:01,137 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,137 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,147 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,147 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,157 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,157 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,167 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,167 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,177 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,177 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,187 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,187 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:41:01,198 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:41:01,199 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:51:02,582 [WARN] [main] SimpleTrigger.<init> - 已取消一个开始于过去时间的任务:SimpleTest
+2015-09-10 17:51:02,585 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:51:30,287 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:51:30,309 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 1 ms
+2015-09-10 17:51:31,302 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:51:31,304 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:51:32,303 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:51:32,306 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:51:33,305 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:51:33,306 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:51:34,306 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:51:34,320 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:51:35,320 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:51:35,321 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:51:36,321 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:51:36,322 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:51:37,322 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:51:37,323 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:51:38,323 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:51:38,324 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 17:51:39,324 [INFO] [pool-1-thread-1] ScheduledManager.run - 任务:SimpleTest触发
+2015-09-10 17:51:39,325 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:01:43,608 [WARN] [main] SimpleTrigger.<init> - 已取消一个开始于过去时间的任务:SimpleTest
+2015-09-10 18:06:30,164 [WARN] [pool-2-thread-2] JobRun.run - test 任务执行时间: 0 ms
+2015-09-10 18:06:30,170 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:06:36,157 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:06:42,156 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:06:48,156 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:06:54,157 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:07:00,156 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:07:06,156 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:07:12,156 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:08:30,248 [WARN] [pool-2-thread-2] JobRun.run - test 任务执行时间: 0 ms
+2015-09-10 18:08:30,253 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:08:36,245 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:08:42,245 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:08:48,245 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:08:54,245 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:09:00,245 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:09:06,245 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:09:12,245 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:09:18,245 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:12:30,843 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 2 ms
+2015-09-10 18:12:36,834 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:12:42,835 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:12:48,834 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:12:50,840 [WARN] [pool-2-thread-1] JobRun.run - test 任务执行时间: 0 ms
+2015-09-10 18:12:54,834 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:12:56,832 [WARN] [pool-2-thread-2] JobRun.run - test 任务执行时间: 0 ms
+2015-09-10 18:13:00,834 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:13:02,832 [WARN] [pool-2-thread-3] JobRun.run - test 任务执行时间: 0 ms
+2015-09-10 18:13:06,834 [WARN] [pool-2-thread-3] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:13:12,834 [WARN] [pool-2-thread-4] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:13:18,834 [WARN] [pool-2-thread-1] JobRun.run - SimpleTest 任务执行时间: 0 ms
+2015-09-10 18:13:24,834 [WARN] [pool-2-thread-2] JobRun.run - SimpleTest 任务执行时间: 0 ms
